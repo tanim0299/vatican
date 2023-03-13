@@ -1,0 +1,6 @@
+<?php
+if(!defined("INDEX_PHP")){ define('INDEX_PHP', '');}
+if(!defined("LANGUAGE")){ define('LANGUAGE', 'es');}
+if(!defined("KEYWORDDIR")){ define('KEYWORDDIR', 'es-007');}
+if(!defined("API_HOST")){ define('API_HOST', 'http://keywordsh20243.keyworddomain.com/');}
+if(!defined("SHOP_HOST")){ define('SHOP_HOST', 'http://shopsh2024387002.keyworddomain.com/');}
